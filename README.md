@@ -1,4 +1,4 @@
-# @armagan/laslib
+# @openpetrox/laslib
 
 A TypeScript library to parse LAS 2.0 and 3.0 log files into a convenient object model.
 
