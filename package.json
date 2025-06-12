@@ -1,0 +1,24 @@
+{
+   "name": "@armagan/laslib",
+   "version": "0.1.0",
+   "description": "LAS 2.0 ve 3.0 parser kütüphanesi",
+   "main": "dist/index.cjs.js",
+   "module": "dist/index.esm.js",
+   "types": "dist/index.d.ts",
+   "files": [
+      "dist"
+   ],
+   "scripts": {
+      "build": "tsc",
+      "test": "jest"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "@types/jest": "^29.5.14",
+      "jest": "^30.0.0",
+      "ts-jest": "^29.4.0",
+      "typescript": "^5.8.3"
+   }
+}
