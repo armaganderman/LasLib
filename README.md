@@ -12,4 +12,4 @@ A TypeScript library to parse LAS 2.0 and 3.0 log files into a convenient object
 ## 📦 Installation
 
 ```bash
-npm install @armagan/laslib
+npm install @openpetrox/laslib
